@@ -1,0 +1,250 @@
+{
+  "heading": "Combining Sentences into Independent Clauses",
+  "topics": [
+    {
+      "heading": "Simple, Complex, Compound and Complex Compound Sentence",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Select the option that combines the ideas into one independent clause without adding another independent or dependent clause:<br> 'The sun rose. The sky turned pink.'",
+          "options": [
+            "The sun rose because the sky turned pink.",
+            "The sky turned pink because the sun rose.",
+            "The sky turned pink as the sun rose.",
+            "The sun rose, turning the sky pink."
+          ],
+          "answer": 3,
+          "explanation": "Option d) is correct because 'turning the sky pink' is a participial phrase modifying 'The sun rose,' creating one independent clause. Other options form compound or complex sentences."
+        },
+        {
+          "questionNo": 2,
+          "question": "Select the option that combines the ideas into one independent clause:<br> 'The rain stopped. The clouds cleared.'",
+          "options": [
+            "The rain stopped, and the clouds cleared.",
+            "The clouds cleared as the rain stopped.",
+            "The rain stopped, clearing the clouds.",
+            "The rain stopped, which made the clouds clear."
+          ],
+          "answer": 2,
+          "explanation": "Option c) is correct because 'clearing the clouds' is a participial phrase modifying 'The rain stopped,' creating a simple sentence."
+        },
+        {
+          "questionNo": 3,
+          "question": "Select the option that combines the ideas into one independent clause:<br> 'The boy ran. He shouted with excitement.'",
+          "options": [
+            "The boy ran, and he shouted with excitement.",
+            "The boy ran while shouting with excitement.",
+            "The boy ran, shouting with excitement.",
+            "The boy shouted with excitement because he ran."
+          ],
+          "answer": 2,
+          "explanation": "Option c) is correct because 'shouting with excitement' is a participial phrase modifying 'The boy ran,' forming a simple sentence."
+        },
+        {
+          "questionNo": 4,
+          "question": "Select the option that joins two independent clauses with a coordinating conjunction, maintaining their status as independent clauses:<br> 'The lights went out. We lit candles.'",
+          "options": [
+            "The lights went out because we lit candles.",
+            "The lights went out, so we lit candles.",
+            "We lit candles after the lights went out.",
+            "Although the lights went out, we lit candles."
+          ],
+          "answer": 1,
+          "explanation": "Option b) is correct because it joins two independent clauses with 'so,' forming a compound sentence."
+        },
+        {
+          "questionNo": 5,
+          "question": "Select the option that joins two independent clauses with a coordinating conjunction:<br> 'She practiced every day. She became a great musician.'",
+          "options": [
+            "She practiced every day, and she became a great musician.",
+            "She practiced every day when she became a great musician.",
+            "She became a great musician because she practiced every day.",
+            "She practiced every day as she became a great musician."
+          ],
+          "answer": 0,
+          "explanation": "Option a) is correct because it joins two independent clauses with 'and,' forming a compound sentence."
+        },
+        {
+          "questionNo": 6,
+          "question": "Select the option that joins two independent clauses with a coordinating conjunction:<br> 'It was raining. We decided to stay indoors.'",
+          "options": [
+            "We decided to stay indoors although it was raining.",
+            "It was raining, so we decided to stay indoors.",
+            "It was raining because we decided to stay indoors.",
+            "We decided to stay indoors as it was raining."
+          ],
+          "answer": 1,
+          "explanation": "Option b) is a compound sentence because it connects two independent clauses ('It was raining' and 'We decided to stay indoors') using the coordinating conjunction 'so,' indicating a cause-and-effect relationship."
+        },
+        {
+          "questionNo": 7,
+          "question": "Select the option that creates a complex sentence by combining the clauses:<br> 'I didn’t go to the party. I wasn’t feeling well.'",
+          "options": [
+            "I didn’t go to the party because I wasn’t feeling well.",
+            "I didn’t go to the party, and I wasn’t feeling well.",
+            "I wasn’t feeling well, so I didn’t go to the party.",
+            "I didn’t go to the party; I wasn’t feeling well."
+          ],
+          "answer": 0,
+          "explanation": "Option a) is a complex sentence because 'because I wasn’t feeling well' is a dependent clause explaining the reason for the independent clause 'I didn’t go to the party.'"
+        },
+        {
+          "questionNo": 8,
+          "question": "Select the option that creates a complex sentence by combining the clauses:<br> 'She read the book. She wrote a review.'",
+          "options": [
+            "After she read the book, she wrote a review.",
+            "She read the book, and she wrote a review.",
+            "She wrote a review because she read the book.",
+            "She wrote a review, and then she read the book."
+          ],
+          "answer": 0,
+          "explanation": "Option a) is a complex sentence because 'After she read the book' is a dependent clause explaining when the action of the independent clause 'she wrote a review' occurred."
+        },
+        {
+          "questionNo": 9,
+          "question": "Select the option that creates a complex sentence by combining the clauses:<br> 'I missed the bus. I woke up late.'",
+          "options": [
+            "I missed the bus because I woke up late.",
+            "I missed the bus, and I woke up late.",
+            "I woke up late, so I missed the bus.",
+            "I missed the bus after I woke up late."
+          ],
+          "answer": 0,
+          "explanation": "Option a) forms a complex sentence with the dependent clause 'because I woke up late' providing the reason for the independent clause 'I missed the bus.'"
+        },
+        {
+          "questionNo": 10,
+          "question": "Complete the sentence:<br> 'He refused to eat _______ he was not hungry.'",
+          "options": [
+            "because",
+            "although",
+            "but",
+            "and"
+          ],
+          "answer": 0,
+          "explanation": "Option a) 'because' correctly introduces the reason he refused to eat, forming a complex sentence."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank:<br> 'Hardly had he finished the report _______ his supervisor asked for another one.'",
+          "options": [
+            "than",
+            "when",
+            "since",
+            "as soon as"
+          ],
+          "answer": 1,
+          "explanation": "Option b) 'when' completes the sentence with the structure 'Hardly... when,' indicating that the supervisor’s request happened immediately after the report was finished."
+        },
+        {
+          "questionNo": 12,
+          "question": "She will keep practicing piano _______ she becomes an expert.",
+          "options": [
+            "until",
+            "since",
+            "unless",
+            "as though"
+          ],
+          "answer": 0,
+          "explanation": "Option a) 'until' correctly expresses that her practice will continue up to the point when she becomes an expert."
+        },
+        {
+          "questionNo": 13,
+          "question": "Rearrange the following words to form a complex-compound sentence:<br> 'he / went / the doctor / he / since / felt / ill / and / took / medicine'",
+          "options": [
+            "Since he felt ill, he went to the doctor and took medicine.",
+            "He felt ill, so he went to the doctor and took medicine.",
+            "He went to the doctor and took medicine because he felt ill.",
+            "After feeling ill, he went to the doctor and took medicine."
+          ],
+          "answer": 0,
+          "explanation": "Option a) represents a complex-compound sentence with a dependent clause ('Since he felt ill') and two independent clauses ('he went to the doctor' and 'he took medicine') joined by 'and.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Rearrange the following words to form a simple sentence:<br> 'drinks / coffee / she / every / morning'",
+          "options": [
+            "She drinks coffee every morning.",
+            "She drinks coffee every morning, and she also has breakfast.",
+            "Because she likes coffee, she drinks it every morning.",
+            "She drinks coffee after every morning run."
+          ],
+          "answer": 0,
+          "explanation": "Option a) represents a simple sentence with a subject ('she'), verb ('drinks'), and an object ('coffee')."
+        },
+        {
+          "questionNo": 15,
+          "question": "Rewrite the following simple sentence as a compound sentence:<br> 'She studies every night.'",
+          "options": [
+            "She studies every night, and she works on weekends.",
+            "Because she studies every night, she passes her exams.",
+            "After she studies, she takes a break.",
+            "She studies every night because she wants to succeed."
+          ],
+          "answer": 0,
+          "explanation": "Option a) represents a compound sentence, as it joins two independent clauses with 'and.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "Rewrite the following simple sentence as a compound sentence:<br> 'The team worked late into the night.'",
+          "options": [
+            "The team worked late into the night, but they were exhausted.",
+            "The team worked late into the night so that they could win.",
+            "After the team worked late into the night, they celebrated.",
+            "Although the team worked late into the night, they were focused."
+          ],
+          "answer": 0,
+          "explanation": "Option a) represents a compound sentence joining two independent clauses with 'but.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Identify the type of sentence:<br> 'While I was studying, the power went out, but I continued to work.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 3,
+          "explanation": "Option d) represents a complex-compound sentence with multiple independent clauses ('the power went out' and 'I continued to work') and one dependent clause ('While I was studying')."
+        },
+        {
+          "questionNo": 18,
+          "question": "Identify the type of sentence:<br> 'If it rains tomorrow, we will cancel the picnic, and we will move it to next week.'",
+          "options": [
+            "Simple",
+            "Compound",
+            "Complex",
+            "Complex-compound"
+          ],
+          "answer": 3,
+          "explanation": "Option d) represents a complex-compound sentence that includes a dependent clause ('If it rains tomorrow') and two independent clauses ('we will cancel the picnic' and 'we will move it to next week')."
+        },
+        {
+          "questionNo": 19,
+          "question": "Rewrite the following simple sentence as a compound sentence:<br> 'The city has a vibrant nightlife.'",
+          "options": [
+            "The city has a vibrant nightlife, so many tourists visit.",
+            "Because the city has a vibrant nightlife, it attracts visitors.",
+            "The city has a vibrant nightlife, and it hosts many events.",
+            "After the city has a vibrant nightlife, it becomes lively."
+          ],
+          "answer": 2,
+          "explanation": "Option c) represents a compound sentence connecting two independent clauses with 'and.'"
+        },
+        {
+          "questionNo": 20,
+          "question": "Rewrite the following simple sentence as a compound sentence:<br> 'She completed her thesis.'",
+          "options": [
+            "She completed her thesis, and she defended it successfully.",
+            "Since she completed her thesis, she felt accomplished.",
+            "After she completed her thesis, she took a break.",
+            "She completed her thesis because she worked hard."
+          ],
+          "answer": 0,
+          "explanation": "Option a) represents a compound sentence that combines two independent clauses with 'and.'"
+        }
+      ]
+    }
+  ]
+}
